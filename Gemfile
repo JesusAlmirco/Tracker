@@ -58,3 +58,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'warden', '~> 1.2.8'
+
+gem 'devise', '~> 4.7.1'
