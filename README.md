@@ -1,24 +1,18 @@
-# README
+# Tracker App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Key requiremnt: company needs documentacion that salaried employees did or dit not get overtime each week
 
-Things you may want to cover:
+##Models:
+  -Post -> date:date rational:text
+  -User -> Devise
+  -AdminUser -> STI
 
-* Ruby version
+## Features:
+  -Approbal Workflow
+  -SMS Sending -> link to aproval or overtime input
+  -Administrate admin dashboard
+  -Email sumary to manage for Approbal
+  -Need to be documented if employee did not log overtime
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## UI:
+  - Bootstrap -> Formanting
