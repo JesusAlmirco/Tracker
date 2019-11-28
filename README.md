@@ -1,18 +1,20 @@
 # Tracker App
 
-## Key requiremnt: company needs documentation that salaried employees did or dit not get overtime each week
+## Key requirement: company needs documentation that salaried employees did or dit not get overtime each week
 
-##Models:
+## Models:
   - Post -> date:date rational:text
   - User -> Devise
   - AdminUser -> STI
 
 ## Features:
-  - Approbal Workflow
-  - SMS Sending -> link to aproval or overtime input
+  - Approval Workflow
+  - SMS Sending -> link to approval or overtime input
   - Administrate admin dashboard
-  - Email summary to manage for Approbal
+  - Email summary to manage for Approval
   - Need to be documented if employee did not log overtime
 
 ## UI:
-  - Bootstrap -> Formanting
+  - Bootstrap -> Formatting
+## Refactor TODOS
+  - Refactor user Association integration test in post_spec 
