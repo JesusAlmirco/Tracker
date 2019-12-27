@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+ @import "bootstrap";
+
+ body {
+  color: #565a5c;
+  background-color: #F8F8F8;
+  font-family: "Varela Round", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.navbar {
+  background-color: #3A3CDD;
+  color: white;
+  margin-top: 15px;
+}
