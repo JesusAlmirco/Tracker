@@ -17,4 +17,5 @@
 ## UI:
   - Bootstrap -> Formatting
 ## Refactor TODOS
-  - Refactor user Association integration test in post_spec 
+  - Add full_name method for users
+  - Refactor user Association integration test in post_spec
